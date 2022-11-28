@@ -21,5 +21,4 @@ If the HMM parameter already converges, then it can be used in Viterbi algorithm
 <br>![6](https://user-images.githubusercontent.com/65435469/204351736-14810f1d-5a1b-41ac-b86d-5ecece5dce23.PNG)
 
 <h1> References </h1>
-The yellow area is an area identified as an abnormal pitch condition.
 L. R. Rabiner, "A tutorial on hidden Markov models and selected applications in speech recognition," in Proceedings of the IEEE, vol. 77, no. 2, pp. 257-286, Feb. 1989, doi: 10.1109/5.18626.
