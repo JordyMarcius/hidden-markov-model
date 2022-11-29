@@ -10,5 +10,5 @@ Baum-Welch algorithm aims to re-calculate HMM model parameter such as initial pr
 <h2> Viterbi Algorithm </h2>
 Viterbi algorithm aims to determine hidden states sequence based on HMM model and observable sequence.
 
-<h2> References </h2>
+<h2> Reference </h2>
 L. R. Rabiner, "A tutorial on hidden Markov models and selected applications in speech recognition," in Proceedings of the IEEE, vol. 77, no. 2, pp. 257-286, Feb. 1989, doi: 10.1109/5.18626.
