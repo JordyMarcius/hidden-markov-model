@@ -3,7 +3,7 @@ The main goal from this project is to determine an abnormal pitch condition caus
 - Internal actions such as gas and brake process 
 - External actions such as potholes or obstacle on non flat road.
 
-This algorithm is being tested using pitch data from real driving condition and can be seen in a line plot graph below.
+This algorithm is being tested using pitch data from real driving condition which can be seen in a line plot graph below.
 
 ![7](https://user-images.githubusercontent.com/65435469/204349454-ca114e96-146f-405e-a705-a54deef1e953.PNG)
 
