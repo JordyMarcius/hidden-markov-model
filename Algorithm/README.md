@@ -1,5 +1,5 @@
 <h2> Forward Algorithm </h2>
-Forward algorithm aims to calculate probability of observable sequence based on given HMM model with less number of computation compared with direct calculation methode. This algorithm also calculate alpha variable that being used in Baum-Welch algorithm to estimate HMM model specification.
+Forward algorithm aims to calculate probability of observable sequence based on given HMM model with a less number of computation compared with direct calculation methode. This algorithm also calculate alpha variable that being used in Baum-Welch algorithm to estimate HMM model specification.
 
 <h2> Backward Algorithm </h2>
 Backward algorithm aims to calculate backward variable that being used in Baum-Welch algorithm to estimate HMM model specification.
